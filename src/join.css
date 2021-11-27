@@ -1,0 +1,90 @@
+.img2{
+    margin-top: 40px;
+    width: 600px;
+    height: 600px;
+}
+
+.frm{
+    margin-top: 50px;
+}
+
+.tble1{
+    width: 450px;
+    margin-left: 100px;
+    left: calc(50% - 551px/2 + 338.5px);
+top: 199px;
+
+background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
+background-blend-mode: soft-light, normal;
+box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
+border-radius: 10px;
+
+}
+
+.head{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.line{
+    margin-left: 110px;
+    margin-right: 95px;
+}
+
+
+.google{
+    width: 40px;
+    margin-top: 25px;
+    margin-left: 145px;
+}
+
+.facebook{
+    width: 42px;
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.linkedin{
+    width: 42px;
+    margin-top: 25px;
+    margin-left: 120px;
+}
+
+.signin{
+    margin-top: 40px;
+    margin-left: 190px;
+    font-size: 18px;
+}
+
+.btn3{
+    margin-top: 35px;
+    margin-left: 200px;
+    width: 250px;
+    height: 40px;
+left: calc(50% - 284px/2 + 347px);
+top: 897px;
+background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #2363C3;
+background-blend-mode: soft-light, normal;
+border: 1px solid rgba(255, 255, 255, 0.16);
+box-sizing: border-box;
+box-shadow: -15px -15px 30px #FAFBFF, 15px 15px 30px #A6ABBD;
+border-radius: 20px;
+}
+
+
+
+.homeicon{
+    width: 50px;
+height:50px;
+margin-left: 50px;
+margin-top: 20px;
+
+
+background: linear-gradient(135.37deg, rgba(0, 0, 0, 0.4) 4.29%, rgba(255, 255, 255, 0.4) 95.6%), #EBECF0;
+background-blend-mode: soft-light, normal;
+border: 1px solid rgba(255, 255, 255, 0.4);
+box-sizing: border-box;
+box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
+
+border-radius: 10px;
+}

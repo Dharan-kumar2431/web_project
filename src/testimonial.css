@@ -1,0 +1,284 @@
+.Testimoniallogo{
+   
+    position: relative;
+    width: 512px;
+    height: 512px;
+    left: 50px;
+    top: 145px;
+    mix-blend-mode: normal;
+}
+.headingtestimonial
+{
+position: absolute;
+width: 253px;
+height: 134px;
+left: 878px;
+top: 83px;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+.input1
+{
+    position: absolute;
+    width: 295px;
+    height: 33px;
+    left: 649px;
+    top: 190px;
+}
+.input2
+{
+position: absolute;
+width: 289px;
+height: 33px;
+left: 1057px;
+top: 190px;
+}
+.input3
+{
+position: absolute;
+width: 296px;
+height: 33px;
+left: 649px;
+top: 250px;
+}
+.input4
+{
+    position: absolute;
+    width: 288px;
+    height: 33px;
+    left: 1057px;
+    top: 250px;
+}
+.label1
+{
+position: absolute;
+width: 330px;
+height: 24px;
+left: 644px;
+top: 309px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.textarea1
+{
+position: absolute;
+width: 308px;
+height: 114px;
+left: 643px;
+top: 354px;
+}
+.label2
+{
+position: absolute;
+width: 243px;
+height: 24px;
+left: 1057px;
+top: 308px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.textarea2
+{
+ position: absolute;
+width: 318px;
+height: 120px;
+left: 1057px;
+top: 354px;
+}
+.label3
+{
+    
+position: absolute;
+width: 382px;
+height: 24px;
+left: 643px;
+top: 503px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.radioyes
+{
+ position: absolute;
+width: 25px;
+height: 24px;
+left: 651px;
+top: 545px;
+}
+.radiono
+{
+position: absolute;
+width: 25px;
+height: 24px;
+left: 651px;
+top: 580px;
+}
+.label4
+{
+position: absolute;
+width: 41px;
+height: 16px;
+left: 690px;
+top: 544px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.label5
+{
+position: absolute;
+width: 34.13px;
+height: 12.94px;
+left: 693px;
+top: 581px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.label6
+{
+position: absolute;
+width: 322.65px;
+height: 15.52px;
+left: 1052px;
+top: 502px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+}
+.textarea3
+{
+position: absolute;
+width: 328px;
+height: 110px;
+left: 1057px;
+top: 540px;
+}
+
+.buttontestimonial{
+text-align:center;
+position: relative;
+width: 207px;
+height: 46.54px;
+left: 341px;
+top: 500px;
+color:white;
+margin:4px 2px;
+background: #0060CA;
+box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+font-size: 18px;
+line-height:45px;
+}
+.nav
+{
+     
+    font-weight: bold;
+    background: #0060CA;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    font-family: 'Red Hat Display', sans-serif;
+    
+}
+
+.link
+{
+      margin-left: 15px;
+}
+.testimonial-box
+{
+position: absolute;
+width: 1017px;
+height: 160px;
+left: 244px;
+top: 868px;
+background: #FFFFFF;
+border: 1px solid #B4AAAA;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+.view-more
+{
+    text-align:center;
+position: absolute;
+width: 198px;
+height: 52px;
+left: 790px;
+top: 29px;
+color:white;
+margin:2px 6px;
+background: #0E5FB7;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 2px;
+font-size: 18px;
+line-height:48px;
+}
+.person1
+{
+position: absolute;
+width: 157px;
+height: 28px;
+left: 351px;
+top: 885px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 40px;
+
+}
+
+.profile-img
+{
+position: absolute;
+width: 68px;
+height: 65px;
+left: 266px;
+top: 881px;
+}
+.content
+{
+position: absolute;
+width: 701px;
+height: 102px;
+left: 351px;
+top: 924px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+}
+.Review
+{
+position: absolute;
+width: 99px;
+height: 22px;
+left: 529px;
+top: 887px;
+color:#B4AAAA;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 29px;
+}

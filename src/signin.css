@@ -1,0 +1,55 @@
+.signimg{
+    margin-top: 80px;
+}
+
+.login{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.tble2{
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 60px;
+    left: calc(50% - 551px/2 + 338.5px);
+top: 199px;
+
+background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
+background-blend-mode: soft-light, normal;
+box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
+border-radius: 10px;
+}
+
+.tble3{
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 40px;
+    left: calc(50% - 551px/2 + 338.5px);
+top: 199px;
+
+background: linear-gradient(317.7deg, rgba(0, 0, 0, 0.4) 0%, rgba(255, 255, 255, 0.4) 105.18%), #E7EBF0;
+background-blend-mode: soft-light, normal;
+box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
+border-radius: 10px;
+}
+
+.forgot{
+    margin-left: 400px;
+}
+
+
+.homeicon{
+    width: 50px;
+height:50px;
+margin-left: 50px;
+margin-top: 20px;
+
+
+background: linear-gradient(135.37deg, rgba(0, 0, 0, 0.4) 4.29%, rgba(255, 255, 255, 0.4) 95.6%), #EBECF0;
+background-blend-mode: soft-light, normal;
+border: 1px solid rgba(255, 255, 255, 0.4);
+box-sizing: border-box;
+box-shadow: -5px -5px 10px #FAFBFF, 5px 5px 10px #A6ABBD;
+
+border-radius: 10px;
+}

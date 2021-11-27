@@ -1,0 +1,38 @@
+.chead{
+    color: #0E5FB7;
+   
+    display: inline;
+   
+
+}
+
+.backbutton{
+    width: 125px !important;
+    margin:0px;
+    height: 60px;
+    display: inline;
+    margin-top: 0px;
+
+}
+
+.csubtopics{
+    padding-top: 30px;
+    color: #0E5FB7;
+}
+
+.cimg{
+    width: 60px;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 20px;
+    
+    position: absolute;
+}
+
+.ptext{
+    width: 60%;
+    margin-left: 100px;
+  margin-top: 45px;
+  text-align: justify;
+
+}
